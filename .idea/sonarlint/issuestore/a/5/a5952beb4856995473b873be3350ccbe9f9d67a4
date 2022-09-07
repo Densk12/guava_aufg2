@@ -1,0 +1,36 @@
+
+E
+java:S10663"/Merge this if statement with the enclosing one.(ÊÇ•Õ
+`
+java:S2095~"JUse try-with-resources or close this "XSSFWorkbook" in a "finally" clause.(‚ŒÊ’
+7
+java:S1170"!Make this final field static too.(‘§Â 
+<
+java:S1170"!Make this final field static too.(∏ ¥ò¸ˇˇˇˇ
+<
+java:S1170"!Make this final field static too.(ã»„ãˇˇˇˇˇ
+A
+java:S1905'"&Remove this unnecessary cast to "int".(ÿ∆∫Â˝ˇˇˇˇ
+A
+java:S1905'"&Remove this unnecessary cast to "int".(ÿ∆∫Â˝ˇˇˇˇ
+<
+java:S1905("&Remove this unnecessary cast to "int".(›ã◊Ë
+<
+java:S1905("&Remove this unnecessary cast to "int".(›ã◊Ë
+A
+java:S1905."&Remove this unnecessary cast to "int".(öÂ‘õ˛ˇˇˇˇ
+F
+java:S6035"0Replace this alternation with a character class.(‘§Â 
+R
+java:S6353"<Use concise character class syntax '\\d' instead of '[0-9]'.(‘§Â 
+K
+java:S6035"0Replace this alternation with a character class.(∏ ¥ò¸ˇˇˇˇ
+m
+java:S3776M"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÀªÁõ˝ˇˇˇˇ
+K
+java:S6035"0Replace this alternation with a character class.(ã»„ãˇˇˇˇˇ
+W
+java:S6353"<Use concise character class syntax '\\d' instead of '[0-9]'.(ã»„ãˇˇˇˇˇ
+O
+java:S2864b"4Iterate over the "entrySet" instead of the "keySet".(˜…î˙˚ˇˇˇˇ
+?	java:S108ö")Either remove or fill this block of code.(Ô≠£ƒ
