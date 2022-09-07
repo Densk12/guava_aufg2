@@ -148,7 +148,7 @@ public class Excel3000 {
                     csvPrinter.printRecord(
                             cell.getRowKey(),
                             cell.getColumnKey(),
-                            String.format("%d%s", cell.getRowKey(), columnToLetter(cell.getColumnKey())),
+                            String.format("%s%d", columnToLetter(cell.getColumnKey()), cell.getRowKey()),
                             cell.getValue()
                     );
                 } catch (IOException e) {
